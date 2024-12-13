@@ -1,4 +1,4 @@
-# Chall - Your Challenge Title
+# Chall - Exfiltration
 
 > A brief description of the challenge
 
@@ -9,8 +9,8 @@
 
 ## Designer(s)
 
-- Ada Lovelace
-- Barbara Liskov
+- Houssem0x1
+
 
 ## Description
 
@@ -21,18 +21,7 @@ goals and the skills it aims to test in participants.
 
 ## Category(ies)
 
-- `pwn`
-- `re`
-- `web`
-- `stegano`
-- `env`
-- `crypto`
-- `osint`
-- `web3`
-- `ai`
-- `android`
-- `auto`
-- `misc`
+- `forensics`
 
 ---
 
