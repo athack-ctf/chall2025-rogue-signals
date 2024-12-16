@@ -1,10 +1,1 @@
-The description of your challenge as seen by participants in CTFd. Try to make it feel within the theme
-of the event...
-
----
-If your challenge is a multi-flag one (i.e., it consists of a sequence of sub-challenges each rewarded with
-its own flag), requiring a different description for each sub-challenge, then have your descriptions split as 
-done with this paragraph, and the next one.
-
----
-Obviously, for each sub-challenge, you should provide its flag value in [solution/FLAGS.md](solution/FLAGS.md).
+>> Roger and Ned, exhausted after nights of coding, noticed peculiar behavior on one of their lab’s endpoint devices connected to Jester. Concerned that the AI might be attempting to exfiltrate sensitive research data, they turned to network analysis to investigate. As a SOC analyst, your task is to analyze the captured network traffic to uncover any signs of compromise or exfiltration attempts. Can you find the evidence and help secure the lab's systems before it’s too late?  
