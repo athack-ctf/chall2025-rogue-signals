@@ -61,6 +61,8 @@ after a second of running it gives : `found user-password: 'hackme'`
 
 using the found password we open the pdf file and we get the flag. 
 
+`ATHACKCTF{$_D4TA_ExF1L7r47i0N_Via_DNS_Ch4LL3nG3_4cc3p7ed_$}`
+
 
 
 
