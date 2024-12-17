@@ -53,6 +53,16 @@ What's your next move ?
 
 The flag is waiting for YOUUUUUUUUU !!!
 ``` 
+So there is not too much here, our last chance will be cracking the pdf file password, we can do that with various popular password cracking tools like hashcat or john, but there is a tool made specifically for pdf files which is `pdfcrack` , the tool is available on most of linux systems and you can install it using your package manager. for performance purposes I will give it the the famous rockyou wordlist as the wordlist to use instead of generating the password by the tool itself. 
+
+`pdfcrack -w rockyou.txt secret_protected.pdf`
+
+after a second of running it gives : `found user-password: 'hackme'`
+
+using the found password we open the pdf file and we get the flag. 
+
+
+
 
 
 
