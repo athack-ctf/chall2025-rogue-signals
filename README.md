@@ -1,6 +1,6 @@
 # Chall - Rogue Signals
 
-> A brief description of the challenge
+> Analyze a network capture to detect data exfiltration via DNS Tunneling of a ZIP file.
 
 ## Type
 
