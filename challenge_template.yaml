@@ -24,7 +24,7 @@ flags:
 
 # Available: beginner, interac
 tags:
-    network
+   - network
 
 # Provide paths to files from the same directory that this file is in
 files:
