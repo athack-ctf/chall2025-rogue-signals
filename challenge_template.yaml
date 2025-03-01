@@ -24,8 +24,8 @@ flags:
 
 # Available: beginner, interac
 tags:
-   - network
-
+   - networking
+   - Exfiltration
 # Provide paths to files from the same directory that this file is in
 files:
     - offline-artifacts/Rogue_Signals.pcapng
