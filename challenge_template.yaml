@@ -5,7 +5,7 @@ name: "Rogue Signals"
 author: ""
 category: <Forensics>
 description: 
-	Roger and Ned, exhausted after nights of coding, noticed peculiar behavior on one of their lab’s endpoint devices connected to Jester. Concerned that the AI might be attempting to exfiltrate sensitive research data, they turned to network analysis to investigate. As a SOC analyst, your task is to analyze the captured network traffic to uncover any signs of compromise or exfiltration attempts. Can you find the evidence and help secure the lab's systems before it’s too late?  
+	    Roger and Ned, exhausted after nights of coding, noticed peculiar behavior on one of their lab’s endpoint devices connected to Jester. Concerned that the AI might be attempting to exfiltrate sensitive research data, they turned to network analysis to investigate. As a SOC analyst, your task is to analyze the captured network traffic to uncover any signs of compromise or exfiltration attempts. Can you find the evidence and help secure the lab's systems before it’s too late?  
 
   
     
